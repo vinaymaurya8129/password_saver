@@ -1,4 +1,4 @@
-1. user panel
+1. user panel : 1.can access password by providing email or hint
 2. error handeling
 2. protected files having data and passwords
 
